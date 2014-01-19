@@ -1,0 +1,9 @@
+Alegeti numerele in ordine descrescatoare
+3
+420
+1 50
+133
+2 45
+130
+1 60
+
