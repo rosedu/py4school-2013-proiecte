@@ -1,0 +1,12 @@
+Complexul Educational Lauder-Reut
+Membri: 
+* Profesori:
+o Laurentiu Lambrinoc
+o Marilena Vilciu
+* Elevi:
+o Olinescu Marius
+o Alexandru Selea(cu prezenta spirituala)
+Proiect: 
+* Joc de reconstituire a unui cuvant anagramat, preluat din dexonline, avand ca indiciu si definitia din acelasi dictionar.
+* Incearca sa evite cuvintele fara definitie din dex.
+Realizat sub python 2.7.6. Necesita requests. 
